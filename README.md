@@ -4,7 +4,7 @@
 
 Sou Cientista de Dados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> e (quase) economista <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/giphy.gif" width="30">
 
-- 🔭 Estou trabalhando como um Cientista de Dados Júnior e contribuindo para pesquisas e estudos de caso na equipe de Dados, Pesquisa e Desenvolvimento no <a href="https://bancobari.com.br/">Banco Bari</a>.
+- 🔭 Estou procurando por um emprego no momento.
 - 🌱 Aprendendo mais sobre estatística avançada e aplicações em Python.
 - ⚡ No tempo livre eu leio, jogo ou estudo sobre economia, estatística e/ou programação.
 - 📫 Como me contactar: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Pavezzi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pavezzi)
