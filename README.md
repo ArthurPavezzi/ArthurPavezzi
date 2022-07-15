@@ -2,7 +2,9 @@
 
 ### 👨‍💻: Sobre mim :
 
-Sou Cientista de Dados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> e (quase) economista <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/giphy.gif" width="30">
+Sou formando em economia <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/giphy.gif" width="30"> pela UFPR e analista de BI/cientista de dados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Minha monografia está sendo feita na área de complexidade econômica, aplicando os [estudos de Ricardo Haussman e César Hidalgo](https://atlas.cid.harvard.edu/) aos dados de salários formais da [RAIS](http://www.rais.gov.br/sitio/index.jsf), com cálculos sendo feitos integralmente em R. Também participo como autônomo de um projeto de pesquisa solicitado pela [Sudene](https://www.gov.br/sudene/pt-br) e pela [PNUD](https://www.undp.org/pt/brazil) na mesma área. 
+
+Possuo interesse em programação desde que comecei meus estudos no Técnico em Informática na UTFPR de Campo Mourão, e tenho interesse em dados desde 2017, quando comecei a pesquisar sobre a área. Sou autodidata, com grande capacidade analítica e de sumarização de informações, muito capaz em raciocínio lógico-matemático. 
 
 - 🔭 Estou procurando por um emprego no momento.
 - 🌱 Aprendendo mais sobre estatística avançada e aplicações em Python.
