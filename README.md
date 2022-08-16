@@ -26,3 +26,11 @@ Possuo interesse em programação desde que comecei meus estudos no Técnico em 
   <a href="https://tidyverse.tidyverse.org/index.html" target="_blank" rel="noreferrer"> <img src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png" title="Tidyverse" alt="tidyverse" width="40" height="40"/> </a> 
   <img align="left" title="Terminal" alt="cmd" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 </p>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPavezzi&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPavezzi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArthurPavezzi&v=2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
