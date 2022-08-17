@@ -33,4 +33,4 @@ Possuo interesse em programação desde que comecei meus estudos no Técnico em 
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPavezzi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArthurPavezzi&v=2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
