@@ -6,7 +6,7 @@ Sou formando em economia <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/
 
 Possuo interesse em programação desde que comecei meus estudos no Técnico em Informática na UTFPR de Campo Mourão, e tenho interesse em dados desde 2017, quando comecei a pesquisar sobre a área. Sou autodidata, com grande capacidade analítica e de sumarização de informações, muito capaz em raciocínio lógico-matemático. 
 
-- 🔭 Sou Cientista de Dados Consultor pela [Act Digital](https://actdigital.com/pt/) para o [Bradesco Seguros](https://www.bradescoseguros.com.br/clientes).
+- 🔭 No momento estou buscando uma oportunidade de realocação no mercado de trabalho.
 - 🌱 Aprendendo mais sobre estatística avançada e aplicações em Python.
 - ⚡ No tempo livre eu leio, jogo ou estudo sobre economia, estatística e/ou programação.
 - 📫 Como me contactar: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Pavezzi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pavezzi)
