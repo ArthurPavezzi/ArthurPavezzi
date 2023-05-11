@@ -17,7 +17,7 @@ Possuo interesse em programação desde que comecei meus estudos no Técnico em 
     <!--  AWS  -->
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-2749233-2284623.png" title="AWS" alt="AWS" width="50" height="50"/> </a>
     <!--  Bash  -->
-    <img align="left" title="Bash" alt="Bash" width="50" height="50" src="https://commons.wikimedia.org/wiki/File:Bash_Logo_black_and_white_icon_only.svg"/>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img title="Bash" alt="Bash" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/640px-Bash_Logo_black_and_white_icon_only.svg.png"/> </a>
     <!--  Excel  -->
     <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://icones.pro/wp-content/uploads/2021/04/icone-excel-noire.png" title="Excel" alt="excel" width="50" height="50"/> </a>
     <!--  Git -->
