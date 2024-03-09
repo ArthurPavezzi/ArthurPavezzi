@@ -5,8 +5,6 @@
 I'm an economist <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/giphy.gif" width="30"> graduated at Universidade Federal do Paraná, Brazil, and I work with data. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [My essay](https://acervodigital.ufpr.br/handle/1884/79588) was about economic complexity, applying [Ricardo Haussman and César Hidalgo's studies](https://atlas.cid.harvard.edu/) to formal wage data from [RAIS](http://www.rais.gov.br/sitio/index.jsf) (Annual Social Information Report, mantained by the Brazilian government), with computations, algorithms and plots done entirely in R and graphics done jointly in R and Python, with packages like [economiccomplexity](https://github.com/pachadotdev/economiccomplexity), ggplot2 and matplotlib. I also took part as a freelance in a research project requested by [Sudene](https://www.gov.br/sudene/pt-br) (Northeast Development Superintendence) and by [UNDP](https://www.undp.org/) on the same topic.
 
 I've been interested in programming since I started studying Computer Science Technical Course at UTFPR in Campo Mourão, and I've been interested in data since 2017, when I started researching the area. I am self-taught, with great analytical and information synthesis skills, very capable in logical-mathematical reasoning.
-
- 📫 How to contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Pavezzi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pavezzi)
  
 ---
 <h3 align="left">Languages and Tools:</h3>
