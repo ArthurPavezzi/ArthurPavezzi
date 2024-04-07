@@ -2,33 +2,61 @@
 
 ### 👨‍💻: About :
 
-I'm an economist <img src="https://media2.giphy.com/media/iP1qEUE7VKhLq/giphy.gif" width="30"> graduated at Universidade Federal do Paraná, Brazil, and I work with data. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [My essay](https://acervodigital.ufpr.br/handle/1884/79588) was about economic complexity, applying [Ricardo Haussman and César Hidalgo's studies](https://atlas.cid.harvard.edu/) to formal wage data from [RAIS](http://www.rais.gov.br/sitio/index.jsf) (Annual Social Information Report, mantained by the Brazilian government), with computations, algorithms and plots done entirely in R and graphics done jointly in R and Python, with packages like [economiccomplexity](https://github.com/pachadotdev/economiccomplexity), ggplot2 and matplotlib. I also took part as a freelance in a research project requested by [Sudene](https://www.gov.br/sudene/pt-br) (Northeast Development Superintendence) and by [UNDP](https://www.undp.org/) on the same topic.
-
-I've been interested in programming since I started studying Computer Science Technical Course at UTFPR in Campo Mourão, and I've been interested in data since 2017, when I started researching the area. I am self-taught, with great analytical and information synthesis skills, very capable in logical-mathematical reasoning.
+I'm an economist graduated at Universidade Federal do Paraná, Brazil, where I'm currently undertaking my master's degree in Economic Development, and I work with data. [My essay](https://acervodigital.ufpr.br/handle/1884/79588) was about economic complexity, applying [Ricardo Haussman and César Hidalgo's studies](https://atlas.cid.harvard.edu/) to formal wage data from [RAIS](http://www.rais.gov.br/sitio/index.jsf) (Annual Social Information Report, mantained by the Brazilian government), with computations, algorithms and plots done entirely in R and graphics done jointly in R and Python, with packages like [economiccomplexity](https://github.com/pachadotdev/economiccomplexity), ggplot2 and matplotlib. I also took part as a freelance in a research project requested by [Sudene](https://www.gov.br/sudene/pt-br) (Northeast Development Superintendence) and by [UNDP](https://www.undp.org/) on the same topic.
  
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!--  AWS  -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-2749233-2284623.png" title="AWS" alt="AWS" width="50" height="50"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" title="AWS" alt="AWS" width="90" height="90"/> </a>
     <!--  Bash  -->
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img title="Bash" alt="Bash" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/640px-Bash_Logo_black_and_white_icon_only.svg.png"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img title="Bash" alt="Bash" width="90" height="90" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/> </a>
     <!--  Excel  -->
-    <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://icones.pro/wp-content/uploads/2021/04/icone-excel-noire.png" title="Excel" alt="excel" width="50" height="50"/> </a>
+    <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="excel" width="90" height="90"/>
+    </a>
     <!--  Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2066/PNG/512/git_icon_125271.png" title="Git" alt="git" width="50" height="50"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="git" width="90" height="90"/> </a>
     <!--  LaTeX  -->
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/28/28935.png" title="LaTeX" alt="LaTeX" width="50"/> </a>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/TeXstudio_Logo.svg" title="LaTeX" alt="LaTeX" width="90"/> </a>
+    <!--  MySQL  -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" title="MySQL" alt="MySQL" width="90" height="90"/> </a>
     <!--  Power BI  -->
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/768px-Power_bi_logo_black.svg.png" title="Power BI" alt="power bi" width="50" height="50"/> </a>
-    <!--  Tableau  -->
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tableau-icon-2048x2020-v5npwuis.png" title="Tableau" alt="tableau" width="50" height="50"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" title="Power BI" alt="power bi" width="90" height="90"/> </a>
+</p>
+<p>
     <!--  Python  -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" title="Python" alt="Python" width="50" height="50"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="90" height="90"/> </a>
+    <!--  Jupyter  -->
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="90" height="90"/> </a>
+    <!--  NumPy  -->
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" title="Numpy" alt="Numpy" width="90" height="90"/> </a>
+    <!--  Pandas  -->
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" title="Pandas" alt="Pandas" width="90" height="90"/> </a>
+    <!--  Polars  -->
+    <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://archive.org/download/github.com-pola-rs-polars_-_2022-12-15_12-31-00/cover.jpg" title="Polars" alt="Polars" width="90" height="90"/> </a>
+    <!--  Matplotlib  -->
+    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib" alt="Matplotlib" width="90" height="90"/> 
+    </a>
+    <!--  Seaborn  -->
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="90" height="90"/> 
+    </a>
+</p>
+<p>
     <!--  R  -->
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/language_r_icon_138432.png" title="R" alt="R" width="50" height="50"/> </a>
-    <!--  SQL  -->
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" title="SQL" alt="SQL" width="50" height="50"/> </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-RStudio.png" title="R" alt="R" width="90" height="90"/> </a>
+    <!--  ggplot2  -->
+    <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-ggplot2.png" title="ggplot2" alt="ggplot2" width="90" height="90"/> </a>
+    <!--  Quarto  -->
+    <a href="https://quarto.org/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="Quarto" alt="Quarto" width="90" height="90"/> </a>
+    <!--  RMarkdown  -->
+    <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-rmarkdown.png" title="RMarkdown" alt="RMarkdown" width="90" height="90"/> </a>
+    <!-- Shiny -->
+    <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-shiny.png" title="Shiny R" alt="Shiny R" width="90" height="90"/> </a>
+    <!--  Tidyverse  -->
+    <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://tidyverse.tidyverse.org/logo.png" title="Tidyverse" alt="Tidyverse" width="90" height="90"/> </a>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPavezzi&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
